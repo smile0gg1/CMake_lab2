@@ -4,10 +4,17 @@ build/
 *.a
 *.so
 *.dll
-*.exe
+
 
 *.log
 *.tmp
 
 .DS_Store
 Thumbs.db
+
+out/
+*.lib
+*.exe
+.vscode/
+.idea/
+compile_commands.json
